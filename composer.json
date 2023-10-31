@@ -51,7 +51,8 @@
         "eher/oauth": "1.0.7",
         "aws/aws-sdk-php": "3.67.17",
         "symfony/dotenv": "^5.1",
-        "ucfopen/materia-theme-ucf": "2.0.2"
+        "ucfopen/materia-theme-ucf": "2.0.2",
+        "oat-sa/lib-lti1p3-core": "^6.9"
     },
     "suggest": {
         "ext-memcached": "*"
